@@ -22,4 +22,9 @@ but not able to ..currently working on that
 1 Add more currencies
 2.Make more Beautiful and responsive
 
+# API problem
+as i created my exchangerate api but its not working ,after google search and all i found one api which i used and its worked
+
+coming days i am tring to fix that problem
+
 
