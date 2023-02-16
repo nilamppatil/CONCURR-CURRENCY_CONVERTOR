@@ -1,6 +1,6 @@
 // include api for currency change 
 
-const api = "https://v6.exchangerate-api.com/v6/5386f79645bef6ea0da06559/latest/USD"; 
+const api = "https://api.exchangerate-api.com/v4/latest/USD"; 
 
   
 // for selecting different controls 
